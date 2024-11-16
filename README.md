@@ -15,6 +15,6 @@ I’d like to thank Dr. Angela Yu for their clear and practical teaching approac
 
  # To view:
 i) Clone the repository:
-git clone https://github.com/yourusername/bootstrap-practice-project.git
+git clone https://github.com/kvyhg/Bootstrap-TinDog.git
 
 ii) Open the 'index.html' file in your web browser to explore the project.
